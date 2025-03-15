@@ -1,3 +1,7 @@
 "line 1: outputs login page" 
 line 2: add google auth option 
+<<<<<<< HEAD
 line 4: bug spotted 
+=======
+line 3: add a responsive buttons 
+>>>>>>> 94d414deceb7ed45bd88c550388404be93432e20
