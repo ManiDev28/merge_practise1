@@ -1,1 +1,2 @@
 "line 1: outputs login page" 
+line 2: add google auth option 
